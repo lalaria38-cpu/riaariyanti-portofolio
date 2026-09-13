@@ -1,0 +1,8 @@
+{
+  "name": "Remix RIA AI Portfolio",
+  "description": "Professional portfolio of Ria Ariyanti, S.E. – AI Virtual Assistant, Accounting \u0026 Finance, Data Analytics, AI Automation, and AI Application Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
